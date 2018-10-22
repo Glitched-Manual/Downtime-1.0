@@ -1,0 +1,76 @@
+//#include "main.cpp"
+
+#include <SDL.h>
+#include <SDL_image.h>
+#include <SDL_mixer.h>
+#include <stdio.h>
+#include <string>
+#include <SDL_ttf.h>
+#include <stdio.h>
+#include <string>
+#include <cmath>
+#include <iostream>
+
+using std::cin;
+using std::cout;
+
+
+//Globally used font
+
+// music and other audio
+
+// Text Rendering & positions
+
+// Image and  other rendering
+
+// events like buttons
+
+
+struct event{
+
+
+//audio
+
+char* event_music = "Debug/resources/audio/Greenday - 21 Guns.mp3";
+
+// scratch
+
+char* sfx_1 = "Debug/resources/audio/scratch.wav";
+
+// high
+
+char* sfx_2 = "Debug/resources/audio/high.wav";
+
+//medium
+
+char* sfx_3 = "Debug/resources/audio/medium.wav";
+
+
+char* sfx_4 = "Debug/resources/audio/low.wav";
+
+//image / texture
+
+//image / texture position
+
+
+//text
+
+//text font
+
+char* event_font = "Debug/resources/image/lazy.ttf";
+
+//text position
+
+
+//buttons
+
+void schedule_button();
+
+}Main_event;
+
+
+void event:: schedule_button(){
+
+
+
+} 
